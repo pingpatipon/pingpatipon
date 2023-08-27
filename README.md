@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pingpatipon
-- 👀 I’m interested in Website developer
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning Swift/Python
 
 
 <!---
