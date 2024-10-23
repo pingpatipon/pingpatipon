@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pingpatipon
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Swift/Python
+- 👀 I’m interested in Data Analyst.
+- 🌱 I’m currently learning Python, SQL, R, Power BI and Tableau.
 
 
 <!---
